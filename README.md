@@ -1,5 +1,5 @@
 # pinguimgame
-
+Aluno: Claudia Adeodato de Souza
 Ficheiros:
 
 character.png
